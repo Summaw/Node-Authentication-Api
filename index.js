@@ -3,7 +3,7 @@ const mongoose = require("mongoose")
 const app = express()
 const authRoute = require('./routes/auth')
 
-const  dbURI = "" //Your collection url shizz here
+const  dbURI = "" //your collection url here!
 app.use(express.json())
 app.use('/api/auth', authRoute)
 
