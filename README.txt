@@ -1,5 +1,5 @@
 [+] About API [+]
-[-] I bult this api a month or so ago because I wanted to learn and use JWT(Json Web token)
+[-] I built this api a month or so ago because I wanted to learn and use JWT(Json Web token)
 [-] I would not recommend using this for a public api... you would have to do alot of work to make is worthy of that.
 
 [+] Requirements [+] 
